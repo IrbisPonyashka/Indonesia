@@ -23,6 +23,14 @@
     src: url(../font/OpenSans-Regular.ttf);
 }
 @font-face{
+    font-family:'OL' ;
+    src: url(../font/OpenSans-Light.ttf);
+}
+@font-face{
+    font-family:'OIL' ;
+    src: url(../font/OpenSans-LightItalic.ttf);
+}
+@font-face{
     font-family:'OSB' ;
     src: url(../font/OpenSans-SemiBold.ttf);
 }
